@@ -1,4 +1,4 @@
-let name = (fullname, flag) =>{
+let names = (fullname, flag) =>{
     switch(flag){
         case "firstname":
             let arr1 = fullname;
