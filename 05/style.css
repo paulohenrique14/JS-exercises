@@ -1,0 +1,11 @@
+.carro{
+    border:2px solid red;
+    background-color: rgba(255, 0, 0, 0.5);
+    padding:15px;
+    max-width:300px;
+    margin-top:15px;
+    display:flex;
+    justify-content: space-between;
+    border-radius:5px;
+}
+
